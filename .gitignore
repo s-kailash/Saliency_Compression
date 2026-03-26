@@ -1,0 +1,29 @@
+# Pycache
+__pycache__/
+*.pyc
+
+# Model files
+*.pt
+*.pth
+
+# Executables and libraries
+*.exe
+*.dll
+*.zip
+
+# Output directories
+output/
+video_output/
+benchmarking/**/output/
+
+# Datasets
+datasets/
+
+# Test images
+IMAGE/
+
+# CLIC devkit git repo
+benchmarking/clic2021-devkit/.git/
+
+# VSCode
+.vscode/
