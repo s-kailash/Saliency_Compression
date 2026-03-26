@@ -16,9 +16,6 @@ output/
 video_output/
 benchmarking/**/output/
 
-# Datasets
-datasets/
-
 # Test images
 IMAGE/
 
